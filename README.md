@@ -17,4 +17,6 @@ Aplicación  web que te saluda por pantalla
 ### Sprint 2
 - [ ] mejorar la interfaz grafica
 - [x] poner el confetti
-  
+
+
+  https://wilfredopinom.github.io/Saludator/

@@ -16,5 +16,5 @@ Aplicación  web que te saluda por pantalla
 
 ### Sprint 2
 - [ ] mejorar la interfaz grafica
-- [ ] poner el confetti
-- [ ] 
+- [x] poner el confetti
+  

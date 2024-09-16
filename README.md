@@ -27,6 +27,7 @@ https://wilfredopinom.github.io/Saludator/
 ### Sprint 2
 - [ ] mejorar la interfaz grafica
 - [x] poner el confetti
+
   
 
   ## git
@@ -34,3 +35,6 @@ https://wilfredopinom.github.io/Saludator/
   git commit -m "xxx"
   git push origin master
   
+
+
+
